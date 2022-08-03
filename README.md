@@ -42,12 +42,15 @@
 
 ![Introduction to Git and GitHub](./images/coursera.bmp)
 <br>
+ 
 ![Introduction to Git and GitHub](./images/coursera-2.bmp)
 <br>
+ 
 ![Learn Git Branching course Basics](./images/git-basics.bmp)  
 <br>
+ 
 ![Learn Git Branching course Basics](./images/git-remote-repo.bmp) 
-
+<br>
 </details>  
 <br>
 
