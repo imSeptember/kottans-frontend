@@ -34,8 +34,6 @@
 <br>  
 
 ## Git Basics  
-
-Доступно, без примеров на Python было бы лучше т.к. с этим языком не знаком.
  
 <details>
 <summary>Screenshots</summary>
@@ -67,6 +65,4 @@
 ![Linux Survival Quiz 4](./task_linux_cli/linux-4-quiz.jpg)  
 <br>   
 </details>  
-<br>  
-
-В планах установить Ubuntu на борт и практиковаться дальше. 
+<br>   
