@@ -40,7 +40,7 @@
 <details>
 <summary>Screenshots</summary>
  
-<img src="images/coursera-2.jpg" width="400" height="400">
+<img src="images/coursera-2.jpg" style="max-width: 50%";>
  
 ![Learn Git Branching course Basics](./images/git-basics.jpg)  
 ![Learn Git Branching course Basics](./images/git-remote-repo.jpg) 
