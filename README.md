@@ -43,7 +43,7 @@
 ![Introduction to Git and GitHub](./images/coursera-2.jpg)
 <br>
  
-![Introduction to Git and GitHub](./images/coursera.jpg)
+![Introduction to Git and GitHub](./images/coursera-1.jpg)
 <br>
  
 ![Learn Git Branching course Basics](./images/git-basics.jpg)  
