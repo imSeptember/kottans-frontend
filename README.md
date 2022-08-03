@@ -41,8 +41,11 @@
 <summary>Screenshots</summary>
  
 ![Learn Git Basics](/coursera/сoursera-2.jpg) 
-![Learn Git Branching course Basics](/images/git-basics.jpg)  
-![Learn Git Branching course Basics](/images/git-remote-repo.jpg) 
+<br>  
+![Learn Git Branching course Basics](/images/git-basics.jpg)
+<br> 
+![Learn Git Branching course Basics](/images/git-remote-repo.jpg)
+ <br> 
 
 </details>  
 <br>
