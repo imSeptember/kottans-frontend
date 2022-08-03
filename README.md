@@ -40,9 +40,9 @@
 <details>
 <summary>Screenshots</summary>
  
-![Learn Git Basics](./images/coursera-2.jpg) 
-![Learn Git Branching course Basics](./images/git-basics.jpg)  
-![Learn Git Branching course Basics](./images/git-remote-repo.jpg) 
+![Learn Git Basics](/images/coursera-2.jpg) 
+![Learn Git Branching course Basics](/images/git-basics.jpg)  
+![Learn Git Branching course Basics](/images/git-remote-repo.jpg) 
 
 </details>  
 <br>
