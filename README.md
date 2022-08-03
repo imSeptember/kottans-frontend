@@ -35,7 +35,7 @@
 
 ## Git Basics  
 
-Доступно, без примеров на Python было бы лучше.
+Доступно, без примеров на Python было бы лучше т.к. с этим языком не знаком.
  
 <details>
 <summary>Screenshots</summary>
