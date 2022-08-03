@@ -41,13 +41,9 @@
 <summary>Screenshots</summary>
  
 ![Introduction to Git and GitHub](./images/coursera-2.jpg)
-<br>
- 
 ![Learn Git Branching course Basics](./images/git-basics.jpg)  
-<br>
- 
 ![Learn Git Branching course Basics](./images/git-remote-repo.jpg) 
-<br>
+
 </details>  
 <br>
 
