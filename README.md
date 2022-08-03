@@ -9,9 +9,7 @@
 - [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
  
 </details>   
-
 <details>
- 
 <summary>Front-End Basic</summary> 
 - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)  
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)  
@@ -20,9 +18,7 @@
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) 
  
 </details>   
-
 <details>
- 
 <summary>Advanced Topics</summary>  
 - [ ] [Building a Tiny JS World](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)  
 - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)  
@@ -33,7 +29,6 @@
 - [ ] [Friends App](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md)  
  
 </details>
-
 <br>  
 
 ## Git Basics  
