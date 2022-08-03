@@ -40,16 +40,16 @@
 <details>
 <summary>Screenshots</summary>
  
-![Introduction to Git and GitHub](./images/coursera-2.bmp)
+![Introduction to Git and GitHub](./images/coursera-2.jpg)
 <br>
  
-![Introduction to Git and GitHub](./images/coursera.bmp)
+![Introduction to Git and GitHub](./images/coursera.jpg)
 <br>
  
-![Learn Git Branching course Basics](./images/git-basics.bmp)  
+![Learn Git Branching course Basics](./images/git-basics.jpg)  
 <br>
  
-![Learn Git Branching course Basics](./images/git-remote-repo.bmp) 
+![Learn Git Branching course Basics](./images/git-remote-repo.jpg) 
 <br>
 </details>  
 <br>
@@ -59,16 +59,16 @@
 <details>
 <summary>Screenshots</summary>
 
-![Linux Survival Quiz 1](./task_linux_cli/linux-1-quiz.bmp)  
+![Linux Survival Quiz 1](./task_linux_cli/linux-1-quiz.jpg)  
 <br>
 
-![Linux Survival Quiz 2](./task_linux_cli/linux-2-quiz.bmp)  
+![Linux Survival Quiz 2](./task_linux_cli/linux-2-quiz.jpg)  
 <br>  
 
-![Linux Survival Quiz 3](./task_linux_cli/linux-3-quiz.bmp)  
+![Linux Survival Quiz 3](./task_linux_cli/linux-3-quiz.jpg)  
 <br>  
 
-![Linux Survival Quiz 4](./task_linux_cli/linux-4-quiz.bmp)  
+![Linux Survival Quiz 4](./task_linux_cli/linux-4-quiz.jpg)  
 <br>   
 </details>  
 <br>  
