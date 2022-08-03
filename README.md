@@ -40,7 +40,8 @@
 <details>
 <summary>Screenshots</summary>
 
-![Introduction to Git and GitHub](./images/coursera.bmp)
+ <br>
+![Introduction to Git and GitHub](./images/сoursera.bmp)
 <br>
  
 ![Introduction to Git and GitHub](./images/coursera-2.bmp)
