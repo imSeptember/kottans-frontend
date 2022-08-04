@@ -1,12 +1,14 @@
 # kottans-frontend
 # Stage 0 
 
+I will fill this README file with some bio and impressions later. Just doesn't have enough time:( 
+
 <details>
 <summary>General</summary> 
  
 - [X] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)  
 - [X] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)  
-- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
+- [X] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
  
 </details>   
 <details>
