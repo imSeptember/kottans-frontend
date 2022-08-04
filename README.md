@@ -66,3 +66,16 @@
 <br>   
 </details>  
 <br>   
+
+## Git Collaboration
+
+<details>
+<summary>Screenshots</summary>
+
+![Git Collaboration 1](./task_git_collaboration/learngitbranching-1.png)  
+<br>
+
+![Git Collaboration 2](./task_git_collaboration/learngitbranching-1.png)  
+<br>  
+</details>  
+<br>
