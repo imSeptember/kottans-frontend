@@ -78,6 +78,12 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br>
 
 ![Git Collaboration 2](./task_git_collaboration/learngitbranching-1.png)  
+<br>
+
+![Git Collaboration 3](./task_git_collaboration/coursera-week-3.bmp)  
+<br>
+
+![Git Collaboration 4](./task_git_collaboration/coursera-week-4.bmp)  
 <br>  
 </details>  
 <br>
