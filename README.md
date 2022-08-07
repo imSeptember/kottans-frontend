@@ -2,7 +2,7 @@
 # Stage 0 
 
 <audio controls autoplay> 
-<source scr="./pharrell_williams_happy.mp3 type="mp3"> 
+<source scr="./pharrell_williams_happy.mp3 type="audio/mpeg"> 
 </audio>
 
 I will fill this README file with some bio and impressions later. Just doesn't have enough time:( 
