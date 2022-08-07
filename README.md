@@ -1,7 +1,9 @@
 # kottans-frontend
 # Stage 0 
 
-<audio controls autoplay source scr="./pharrell_williams_happy.mp3> </audio>
+<audio controls autoplay> 
+<source scr="./pharrell_williams_happy.mp3 type="mp3"> 
+</audio>
 
 I will fill this README file with some bio and impressions later. Just doesn't have enough time:( 
 
