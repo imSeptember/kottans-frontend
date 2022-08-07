@@ -1,7 +1,7 @@
 # kottans-frontend
 # Stage 0 
 
-<audio autoplay> <source href="https://www.youtube.com/watch?v=y6Sxv-sUYtM&ab_channel=iamOTHER"
+<audio autoplay> <source href="https://www.youtube.com/watch?v=y6Sxv-sUYtM&ab_channel=iamOTHER">
 
 I will fill this README file with some bio and impressions later. Just doesn't have enough time:( 
 
