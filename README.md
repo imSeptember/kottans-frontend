@@ -87,3 +87,15 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br>  
 </details>  
 <br>
+
+## Intro to HTML and CSS
+
+<details>
+<summary>Screenshots</summary>
+
+![Intro to HTML & CSS](/task_html_css_intro/coursera-1.png) 
+<br>  
+![ntro to HTML & CSS](/task_html_css_intro/coursera-2.png)
+<br> 
+![Learn HTML and CSS](/task_html_css_intro/codecademy.png)
+ <br> 
