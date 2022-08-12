@@ -99,6 +99,7 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br> 
 ![Learn HTML and CSS 3](/task_html_css_intro/codecademy.png)
  <br>
+ </details> 
 
 ## Responsive Web Design
  
@@ -109,3 +110,4 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br>  
 ![Responsive Web Design-2](/task_responsive_web_design/garden.jpg)
 <br> 
+</details> 
