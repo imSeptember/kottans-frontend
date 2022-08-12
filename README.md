@@ -46,9 +46,7 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br> 
 ![Learn Git Branching course Basics](/images/git-remote-repo.jpg)
  <br> 
-
 </details>  
-<br>
 
 ## Linux CLI, and HTTP  
 
@@ -67,7 +65,6 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 ![Linux Survival Quiz 4](./task_linux_cli/linux-4-quiz.jpg)  
 <br>   
 </details>  
-<br>   
 
 ## Git Collaboration
 
@@ -86,7 +83,6 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 ![Git Collaboration 4](./task_git_collaboration/coursera-week-4.bmp)  
 <br>  
 </details>  
-<br>
 
 ## Intro to HTML and CSS 
 
