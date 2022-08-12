@@ -15,7 +15,7 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <summary>Front-End Basic</summary> 
  
 - [X] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)  
-- [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)  
+- [X] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)  
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)  
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)  
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) 
@@ -99,3 +99,13 @@ I will fill this README file with some bio and impressions later. Just doesn't h
 <br> 
 ![Learn HTML and CSS](/task_html_css_intro/codecademy.png)
  <br> 
+ 
+ ## Responsive Web Design
+ 
+ <details>
+<summary>Screenshots</summary>
+
+![Responsive Web Design](/task_responsive_web_design/frog.jpg) 
+<br>  
+![Responsive Web Design](/task_responsive_web_design/garden.jpg)
+<br> 
